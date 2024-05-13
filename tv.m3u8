@@ -1,0 +1,56 @@
+#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="NATIONAL",INDOSIAR  (IndihomeTv)
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png" group-title="NATIONAL",INDOSIAR (Vidio)
+https://raw.githubusercontent.com/Arrasyid22/vision-/main/indosiar.m3u8
+
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",SCTV (IndihomeTv)
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="NATIONAL", SCTV (Vidio)
+https://raw.githubusercontent.com/Arrasyid22/vision-/main/sctv.m3u8
+
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.ibb.co/thFkNxM/soccerch.png" group-title="SPORTS", SOCCER CHANNEL 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+#EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" tvg-name="Sportstars" tvg-logo="https://i.ibb.co/zr3KPMd/sportstars.png" group-title="SPORTS", SPORTSTARS 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://i.ibb.co/fHyGqxZ/sportstars2.png" group-title="SPORTS", SPORTSTARS 2 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id" tvg-name="" group-title="SPORTS" tvg-logo="https://i.ibb.co/wRWZkWs/spotv.png",SPO TV 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-name="" group-title="SPORTS" tvg-logo="https://i.ibb.co/ZM8qx15/spotv2.png",SPO TV 2 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PtgBGrT/LIGUE.jpg" group-title="LIGA EROPA",LIGA PRANCIS (+FOOT)
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/297371
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="LIGA EROPA",BUNDES LIGA 5 (SKY SPORRT)
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298592
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jy7SK52/calcio.png" group-title="LIGA EROPA",LIGA ITALY 2 (SKY SPORT)
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/84505
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/UK/NOW-SPORTS2.png" group-title="LIGA INGGRIS",PREMIER LEAGUE-SPORTS 2
+http://202.21.104.6:88/sps-play/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="LIGA INGGRIS", SKY SPORTS
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/266
