@@ -1,59 +1,84 @@
-#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="NATIONAL",INDOSIAR  (IndihomeTv)
-https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+#EXTM3U  url-tvg="https://u.m3uiptv.com"
 
-#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png" group-title="NATIONAL",INDOSIAR (Vidio)
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.m3u8
-
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",SCTV (IndihomeTv)
-https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="NATIONAL", SCTV (Vidio)
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45099.m3u8
-
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.ibb.co/thFkNxM/soccerch.png" group-title="SPORTS", SOCCER CHANNEL ðŸ‡®ðŸ‡©
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.ibb.co/thFkNxM/soccerch.png" group-title="LOKAL", SOCCER CHANNEL ðŸ‡®ðŸ‡©
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-#EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" tvg-name="Sportstars" tvg-logo="https://i.ibb.co/zr3KPMd/sportstars.png" group-title="SPORTS", SPORTSTARS ðŸ‡®ðŸ‡©
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-
-#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://i.ibb.co/fHyGqxZ/sportstars2.png" group-title="SPORTS", SPORTSTARS 2 ðŸ‡®ðŸ‡©
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-
-#EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id" tvg-name="" group-title="SPORTS" tvg-logo="https://i.ibb.co/wRWZkWs/spotv.png",SPO TV ðŸ‡®ðŸ‡©
+#EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id" tvg-name="" group-title="LOKAL" tvg-logo="https://i.ibb.co/wRWZkWs/spotv.png",SPO TV ðŸ‡®ðŸ‡©
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-name="" group-title="SPORTS" tvg-logo="https://i.ibb.co/ZM8qx15/spotv2.png",SPO TV 2 ðŸ‡®ðŸ‡©
+#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-name="" group-title="LOKAL" tvg-logo="https://i.ibb.co/ZM8qx15/spotv2.png",SPO TV 2 ðŸ‡®ðŸ‡©
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PtgBGrT/LIGUE.jpg" group-title="SPORTS",+FOOT
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/297371
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="SPORTS",SKY 1 SPORTS
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298592
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jy7SK52/calcio.png" group-title="SPORTS",SKY 2 SPORTS
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/84505
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/UK/NOW-SPORTS2.png" group-title="SPORTS",SPORTS
-http://202.21.104.6:88/sps-play/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="SPORTS", SKY SPORTS
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/266
-
-#EXTINF:-1 group-title="SPORTS", beIN SPORTS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1,beIN SPORT 02 SD
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/242882
+#EXTINF:-1,beIN SPORT 01 SD #1
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/242881
+#EXTINF:-1,SSC SPORTS 2 SD
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294857
+#EXTINF:-1,SSC SPORTS 1 SD
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294856
+#EXTINF:-1,BEIN SPORTS 5 HD
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/268508
+#EXTINF:-1,BEIN SPORTS 4 HD
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/268507
+#EXTINF:-1,beIN SPORT 03 SD
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/242883
+#EXTINF:-1,beIN SPORT 04 SD
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/242884
+#EXTINF:-1,beIN SPORT 05 SD
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/242885
+#EXTINF:-1,BEIN SPORTS 1 HD #1
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/268504
+#EXTINF:-1,BEIN SPORTS 2 HD
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/268505
+#EXTINF:-1,BEIN SPORTS 3 HD
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/268506
+#EXTINF:-1,US: beIN Sports XTRA
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/237258
+#EXTINF:-1,BEIN SPORT ENGLISH 2
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/237254
+#EXTINF:-1,BEIN SPORT ENGLISH 1
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/237237
+#EXTINF:-1,|AR| BEIN SPORT 3 HD
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/237224
+#EXTINF:-1,|AR| BEIN SPORT  2 HD
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/237223
+#EXTINF:-1,|AR| BEIN SPORT  1 HD
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/237222
+#EXTINF:-1,SSC SPORTS 3 SD
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294858
+#EXTINF:-1,SSC SPORTS 4 SD
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294859
+#EXTINF:-1,SSC SPORTS 5 SD
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294860
+#EXTINF:-1,SSC SPORTS EXTRA 1 SD
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294861
+#EXTINF:-1,SSC SPORTS EXTRA 2 SD
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294862
+#EXTINF:-1,SSC SPORTS EXTRA 3 SD
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294863
+#EXTINF:-1,SSC 1 HD
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294865
+#EXTINF:-1,SSC EXTRA 3 HD
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294874
+#EXTINF:-1,SSC EXTRA 2 HD
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294875
+#EXTINF:-1,SSC EXTRA 1 HD
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294876
+#EXTINF:-1,SSC 5 HD
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294877
+#EXTINF:-1,SSC 4 HD
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294878
+#EXTINF:-1,SSC 3 HD
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294879
+#EXTINF:-1,SSC 2 HD
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294880
