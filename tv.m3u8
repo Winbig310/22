@@ -1,96 +1,85 @@
 #EXTM3U  url-tvg="https://u.m3uiptv.com"
 
-#EXTINF:-1 group-title="OLAHRAGA",beIN|Sports 1 SD
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://my101.me/app/tv/bein/panel-logo/1sd.png",beIN|Sports 1 SD
 http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/242881
-
-#EXTINF:-1 group-title="OLAHRAGA",beIN|Sports 2 SD
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://my101.me/app/tv/bein/panel-logo/2sd.png",beIN|Sports 2 SD
 http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/242882
-
-#EXTINF:-1 group-title="OLAHRAGA",beIN|Sports3 SD
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://my101.me/app/tv/bein/panel-logo/p3sd.png",beIN|Sports 3 SD
 http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/242883
-
-#EXTINF:-1 group-title="OLAHRAGA",beIN|Sports 4 SD
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://my101.me/app/tv/bein/panel-logo/4sd.png",beIN|Sports 4 SD
 http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/242884
-
-#EXTINF:-1 group-title="OLAHRAGA",beIN|Sports 5 SD
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://my101.me/app/tv/bein/panel-logo/5sd.png",beIN|Sports 5 SD
 http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/242885
 
-#EXTINF:-1 group-title="OLAHRAGA",beIN|Sports 1 HD
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1tVZqrcG-YHFt72rLLUH4-GKo4H3ukSwk8GkZftOMBDFoJwghji9WPGA&s=10",beIN|Sports 1 HD
 http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/268504
-
-#EXTINF:-1 group-title="OLAHRAGA",beIN|Sports 1 HD(2)
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1tVZqrcG-YHFt72rLLUH4-GKo4H3ukSwk8GkZftOMBDFoJwghji9WPGA&s=10",beIN|Sports 1 HD(2)
 http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/237222
-
-#EXTINF:-1 group-title="OLAHRAGA",beIN|Sports 2 HD
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1tVZqrcG-YHFt72rLLUH4-GKo4H3ukSwk8GkZftOMBDFoJwghji9WPGA&s=10",beIN|Sports 2 HD
 http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/268505
-
-#EXTINF:-1 group-title="OLAHRAGA",beIN|Sports 2 HD(2)
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1tVZqrcG-YHFt72rLLUH4-GKo4H3ukSwk8GkZftOMBDFoJwghji9WPGA&s=10",beIN|Sports 2 HD(2)
 http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/237223
-
-#EXTINF:-1 group-title="OLAHRAGA",beIN|Sports 3 HD
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1tVZqrcG-YHFt72rLLUH4-GKo4H3ukSwk8GkZftOMBDFoJwghji9WPGA&s=10",beIN|Sports 3 HD
 http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/268506
-
-#EXTINF:-1 group-title="OLAHRAGA",beIN|Sports 3 HD(2)
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1tVZqrcG-YHFt72rLLUH4-GKo4H3ukSwk8GkZftOMBDFoJwghji9WPGA&s=10",beIN|Sports 3 HD(2)
 http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/237224
-
-#EXTINF:-1 group-title="OLAHRAGA",beIN|Sports 4 HD
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1tVZqrcG-YHFt72rLLUH4-GKo4H3ukSwk8GkZftOMBDFoJwghji9WPGA&s=10",beIN|Sports 4 HD
 http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/268507
-
-#EXTINF:-1 group-title="OLAHRAGA",beIN|Sports 5 HD
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1tVZqrcG-YHFt72rLLUH4-GKo4H3ukSwk8GkZftOMBDFoJwghji9WPGA&s=10",beIN|Sports 5 HD
 http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/268508
 
-#EXTINF:-1 group-title="OLAHRAGA",SSC 1 SD
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://sportstvdspmedia.cachefly.net/images/626c22fd7b9b6a6a5e704c6c/200?webp=1",beIN|Sports XTRA
+US
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/237258
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F213%2Fbein-sports-english-1.png",beIN|Sports ENGLISH 1
+
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/237237
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png",beIN|Sports ENGLISH 2
+
+http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/237254
+
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuxhHrlGw8xX8qZLnGv6LWjPcWD52idxDtcyOKYgh94XJand5kXbqPHBU&s=10",SSC 1 SD
 http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294856
-
-#EXTINF:-1 group-title="OLAHRAGA",SSC 2 SD
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuxhHrlGw8xX8qZLnGv6LWjPcWD52idxDtcyOKYgh94XJand5kXbqPHBU&s=10",SSC 2 SD
 http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294857
-
-#EXTINF:-1 group-title="OLAHRAGA",SSC 3 SD
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuxhHrlGw8xX8qZLnGv6LWjPcWD52idxDtcyOKYgh94XJand5kXbqPHBU&s=10",SSC 3 SD
 http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294858
-
-#EXTINF:-1 group-title="OLAHRAGA",SSC 4 SD
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuxhHrlGw8xX8qZLnGv6LWjPcWD52idxDtcyOKYgh94XJand5kXbqPHBU&s=10",SSC 4 SD
 http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294859
-
-#EXTINF:-1 group-title="OLAHRAGA",SSC 5 SD
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuxhHrlGw8xX8qZLnGv6LWjPcWD52idxDtcyOKYgh94XJand5kXbqPHBU&s=10",SSC 5 SD
 http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294860
 
-#EXTINF:-1 group-title="OLAHRAGA",SSC 1 HD
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuxhHrlGw8xX8qZLnGv6LWjPcWD52idxDtcyOKYgh94XJand5kXbqPHBU&s=10",SSC 1 HD
 http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294865
-
-#EXTINF:-1 group-title="OLAHRAGA",SSC 2 HD
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuxhHrlGw8xX8qZLnGv6LWjPcWD52idxDtcyOKYgh94XJand5kXbqPHBU&s=10",SSC 2 HD
 http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294880
-
-#EXTINF:-1 group-title="OLAHRAGA",SSC 3 HD
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuxhHrlGw8xX8qZLnGv6LWjPcWD52idxDtcyOKYgh94XJand5kXbqPHBU&s=10",SSC 3 HD
 http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294879
-
-#EXTINF:-1 group-title="OLAHRAGA",SSC 4 HD
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuxhHrlGw8xX8qZLnGv6LWjPcWD52idxDtcyOKYgh94XJand5kXbqPHBU&s=10",SSC 4 HD
 http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294878
-
-#EXTINF:-1 group-title="OLAHRAGA",SSC 5 HD
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuxhHrlGw8xX8qZLnGv6LWjPcWD52idxDtcyOKYgh94XJand5kXbqPHBU&s=10",SSC 5 HD
 http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294877
 
-#EXTINF:-1 group-title="OLAHRAGA",SSC EXTRA 1 HD
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuxhHrlGw8xX8qZLnGv6LWjPcWD52idxDtcyOKYgh94XJand5kXbqPHBU&s=10",SSC EXTRA 1 HD
 http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294876
-
-#EXTINF:-1 group-title="OLAHRAGA",SSC EXTRA 2 HD
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuxhHrlGw8xX8qZLnGv6LWjPcWD52idxDtcyOKYgh94XJand5kXbqPHBU&s=10",SSC EXTRA 2 HD
 http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294875
-
-#EXTINF:-1 group-title="OLAHRAGA",SSC EXTRA 3 HD
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuxhHrlGw8xX8qZLnGv6LWjPcWD52idxDtcyOKYgh94XJand5kXbqPHBU&s=10",SSC EXTRA 3 HD
 http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/294874
 
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.ibb.co/thFkNxM/soccerch.png" group-title="K-VISION+", SOCCER CHANNEL
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="K-VISION+", SOCCER CHANNEL
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-
-#EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id" tvg-name="" group-title="K-VISION+" tvg-logo="https://i.ibb.co/wRWZkWs/spotv.png",SPO TV
+#EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id" group-title="K-VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png",SPOTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-name="" group-title="K-VISION+" tvg-logo="https://i.ibb.co/ZM8qx15/spotv2.png",SPO TV 2
+#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-group-title="K-VISION+" tvg-logo="https://seeklogo.com/images/S/spo-tv-2-logo-8E2859F55D-seeklogo.com.png",SPOTV 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
