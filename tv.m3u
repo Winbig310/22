@@ -100,38 +100,3 @@ https://liveaneviadev.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="➾ K-VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png",Sportstars 4/Liga 1 Bri
 https://liveaneviadev.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
-#EXTINF:-1 group-title="➾ beIN|Sports" tvg-logo="https://my101.me/app/tv/bein/panel-logo/1sd.png",➾ beIN|Sports 1 SD
-http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/242881
-#EXTINF:-1 group-title="➾ beIN|Sports" tvg-logo="https://my101.me/app/tv/bein/panel-logo/2sd.png",➾ beIN|Sports 2 SD
-http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/242882
-#EXTINF:-1 group-title="➾ beIN|Sports" tvg-logo="https://my101.me/app/tv/bein/panel-logo/p3sd.png",➾ beIN|Sports 3 SD
-http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/242883
-#EXTINF:-1 group-title="➾ beIN|Sports" tvg-logo="https://my101.me/app/tv/bein/panel-logo/4sd.png",➾ beIN|Sports 4 SD
-http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/242884
-#EXTINF:-1 group-title="➾ beIN|Sports" tvg-logo="https://my101.me/app/tv/bein/panel-logo/5sd.png",➾ beIN|Sports 5 SD
-http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/242885
-
-#EXTINF:-1 group-title="➾ beIN|Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1tVZqrcG-YHFt72rLLUH4-GKo4H3ukSwk8GkZftOMBDFoJwghji9WPGA&s=10",➾ beIN|Sports 1 ᴴᴰ
-http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/268504
-#EXTINF:-1 group-title="➾ beIN|Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1tVZqrcG-YHFt72rLLUH4-GKo4H3ukSwk8GkZftOMBDFoJwghji9WPGA&s=10",➾ beIN|Sports 1 ᴴᴰ 2
-http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/237222
-#EXTINF:-1 group-title="➾ beIN|Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1tVZqrcG-YHFt72rLLUH4-GKo4H3ukSwk8GkZftOMBDFoJwghji9WPGA&s=10",➾ beIN|Sports 2 ᴴᴰ
-http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/268505
-#EXTINF:-1 group-title="➾ beIN|Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1tVZqrcG-YHFt72rLLUH4-GKo4H3ukSwk8GkZftOMBDFoJwghji9WPGA&s=10",➾ beIN|Sports 2 ᴴᴰ 2
-http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/237223
-#EXTINF:-1 group-title="➾ beIN|Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1tVZqrcG-YHFt72rLLUH4-GKo4H3ukSwk8GkZftOMBDFoJwghji9WPGA&s=10",➾ beIN|Sports 3 ᴴᴰ
-http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/268506
-#EXTINF:-1 group-title="➾ beIN|Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1tVZqrcG-YHFt72rLLUH4-GKo4H3ukSwk8GkZftOMBDFoJwghji9WPGA&s=10",➾ beIN|Sports 3 ᴴᴰ 2
-http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/237224
-#EXTINF:-1 group-title="➾ beIN|Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1tVZqrcG-YHFt72rLLUH4-GKo4H3ukSwk8GkZftOMBDFoJwghji9WPGA&s=10",➾ beIN|Sports 4 ᴴᴰ
-http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/268507
-#EXTINF:-1 group-title="➾ beIN|Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1tVZqrcG-YHFt72rLLUH4-GKo4H3ukSwk8GkZftOMBDFoJwghji9WPGA&s=10",➾ beIN|Sports 5 ᴴᴰ
-http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/268508
-
-#EXTINF:-1 group-title="➾ beIN|Sports" tvg-logo="https://sportstvdspmedia.cachefly.net/images/626c22fd7b9b6a6a5e704c6c/200?webp=1",➾ beIN|Sports XTRA US
-http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/237258
-#EXTINF:-1 group-title="➾ beIN|Sports" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F213%2Fbein-sports-english-1.png",➾ beIN|Sports ENGLISH 1
-http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/237237
-#EXTINF:-1 group-title="➾ beIN|Sports" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png",➾ beIN|Sports ENGLISH 2
-http://mixbix.xyz:8080/42rDyGGcDyaBup/ngaBnPHFb5sN/23725
