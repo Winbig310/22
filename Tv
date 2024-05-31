@@ -1,4 +1,10 @@
-
+#EXTM3U  url-tvg="https://github.com/Winbig310/22/raw/main/EPG.xml"
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_bein1_ver1.png",BeIn Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_bein2_ver1.png",BeIn Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
