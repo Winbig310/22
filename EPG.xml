@@ -15,4 +15,8 @@
     <icon src="https://mncvision.id/userfiles/image/channel/channel_308.png" />
     <url>http://www.mncvision.id</url>
   </channel>
-  </tv>
+</programme>
+  <programme start="20240531230000 +0700" stop="20240601005500 +0700" channel="SoccerChannel.id">
+    <title lang="id">Roshn Saudi League 2023/24</title>
+  </programme>
+    </tv>
