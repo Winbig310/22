@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site site="tienkhoi.com.vn">
+  <channels>
+    <channel site_id="BeinSports1" xmltv_id="https://beinsports.com/en-mena/tv-guide">BeIn Sports 1</channel>
+    <channel site_id="BeinSports2" xmltv_id="https://beinsports.com/en-mena/tv-guide">BeIn Sports 2</channel>
+  </channels>
+</site>
