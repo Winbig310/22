@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 </programme>
-  <programme start="20240601000000 +0700" stop="20240600590000 +0700" channel="SoccerChannel.id">
-    <title lang="id">SoccerChannel.id</title>
+  <programme start="20240601013000 +0700" stop="20250601013000 +0700" channel="SoccerChannel.id">
+    <title lang="id">Soccer</title>
   </programme>
 </tv>
