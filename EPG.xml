@@ -4,7 +4,7 @@
     <icon src="https://mncvision.id/userfiles/image/channel/channel_101.png" />
     <url>http://www.mncvision.id</url>
 </programme>
-  <programme start="20240601013000 +0700" stop="20250601013000 +0700" channel="SoccerChannel.id">
+  <programme start="20240601010000 +0700" stop="20240601050000 +0700" channel="SoccerChannel.id">
     <title lang="id">Soccer</title>
   </programme>
 </tv>
