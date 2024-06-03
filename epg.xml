@@ -4,22 +4,8 @@
     <display-name lang="id">Trans 7</display-name>
     <url>http://www.mncvision.id</url>
   </channel>
-      <display-name lang="bein.id">Trans 7</display-name>
-    <url>http://www.beinsports.com/en-mena</url>
-  </channel>
-    </channel>
-      <display-name lang="bein.id">Trans 7</display-name>
-    <url>https://www.mncvision.tv/channel/detail/425/bein-sports-1-hd/1.html</url>
-  </channel>
-      <display-name lang="bein.id">Trans 7</display-name>
-    <url>http://www.beinsports.com</url>
-  </channel>
-    </channel>
-      <display-name lang="bein.id">Trans 7</display-name>
-    <url>https://www.mncvision.tv</url>
-  </channel>
   </programme>
-  <programme start="20240604100000 +0700" stop="20240605103000 +0700" channel="id">
+  <programme start="20240604100000 +0700" stop="20240604703000 +0700" channel="id">
     <title lang="2024">id</title>
     <episode-num system="onscreen">E37</episode-num>
   </programme>
