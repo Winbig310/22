@@ -18,4 +18,9 @@
       <display-name lang="bein.id">Trans 7</display-name>
     <url>https://www.mncvision.tv</url>
   </channel>
+  </programme>
+  <programme start="20240604100000 +0700" stop="20240605103000 +0700" channel="id">
+    <title lang="2024">id</title>
+    <episode-num system="onscreen">E37</episode-num>
+  </programme>
   </tv>
