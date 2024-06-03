@@ -2,7 +2,20 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="trans7">
     <display-name lang="id">Trans 7</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_110.png" />
     <url>http://www.mncvision.id</url>
   </channel>
-  </tv
+      <display-name lang="bein.id">Trans 7</display-name>
+    <url>http://www.beinsports.com/en-mena</url>
+  </channel>
+    </channel>
+      <display-name lang="bein.id">Trans 7</display-name>
+    <url>https://www.mncvision.tv/channel/detail/425/bein-sports-1-hd/1.html</url>
+  </channel>
+      <display-name lang="bein.id">Trans 7</display-name>
+    <url>http://www.beinsports.com</url>
+  </channel>
+    </channel>
+      <display-name lang="bein.id">Trans 7</display-name>
+    <url>https://www.mncvision.tv</url>
+  </channel>
+  </tv>
