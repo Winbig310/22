@@ -187,8 +187,3 @@ http://iptvtree.net:8080/b7c2ba83/b65f5b29/298550
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
 
-#EXTINF:0, Indosiar
-http://mykingtv.net:2082/zaki880/8890/5117
-
-#EXTINF:0,SCTV
-http://mykingtv.net:2082/zaki880/8890/5147
