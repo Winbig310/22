@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="mncvision.id" lang="id" xmltv_id="Sportstars.id" site_id="102">Sportstars</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Sportstars2.id" site_id="98">Sportstars 2</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Sportstars3.id" site_id="99">Sportstars 3</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Sportstars4.id" site_id="88">Sportstars 4</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="SoccerChannel.id" site_id="101">Soccer Channel</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="SPOTV.kr" site_id="307">SPOTV</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="SPOTV2.kr" site_id="308">SPOTV 2</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="SportstarsHD.id" site_id="421">Sportstars HD</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Sportstars2HD.id" site_id="422">Sportstars 2 HD</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Sportstars3HD.id" site_id="423">Sportstars 2 HD</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Sportstars4HD.id" site_id="424">Sportstars 4 HD</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="SoccerChannelHD.id" site_id="420">Soccer Channel HD</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="SPOTVHD.kr" site_id="427">SPOTV HD</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="SPOTV2HD.kr" site_id="428">SPOTV 2 HD</channel>
+</channels>
+
