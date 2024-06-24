@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 #EXTINF:-1 tvg-id="MNCSports.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_102.png", SPORTSTARS 1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
