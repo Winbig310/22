@@ -233,25 +233,40 @@ http://select-iptv.net:80/Mariokroby/s36cm3h3pf/936423
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports Max 10 HEVC
 http://select-iptv.net:80/Mariokroby/s36cm3h3pf/936437
 
-#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThQiN-Vvh3khJkjiq8sbEMKWl0QZsKzXc-xg&usqp=CAU" group-title="EUROSPORTS",EUROSPORTS 1
-http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282297
-#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThQiN-Vvh3khJkjiq8sbEMKWl0QZsKzXc-xg&usqp=CAU" group-title="EUROSPORTS",EUROSPORTS 2
-http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282296
-#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThQiN-Vvh3khJkjiq8sbEMKWl0QZsKzXc-xg&usqp=CAU" group-title="EUROSPORTS",EUROSPORTS 3
-http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282295
-#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThQiN-Vvh3khJkjiq8sbEMKWl0QZsKzXc-xg&usqp=CAU" group-title="EUROSPORTS",EUROSPORTS 4
-http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282294
-#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThQiN-Vvh3khJkjiq8sbEMKWl0QZsKzXc-xg&usqp=CAU" group-title="EUROSPORTS",EUROSPORTS 5
-http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282293
-#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThQiN-Vvh3khJkjiq8sbEMKWl0QZsKzXc-xg&usqp=CAU" group-title="EUROSPORTS",EUROSPORTS 6
-http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282292
-#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThQiN-Vvh3khJkjiq8sbEMKWl0QZsKzXc-xg&usqp=CAU" group-title="EUROSPORTS",EUROSPORTS 7
-http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282291
-#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThQiN-Vvh3khJkjiq8sbEMKWl0QZsKzXc-xg&usqp=CAU" group-title="EUROSPORTS",EUROSPORTS 8
-http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282290
-#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThQiN-Vvh3khJkjiq8sbEMKWl0QZsKzXc-xg&usqp=CAU" group-title="EUROSPORTS",EUROSPORTS 9
-http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282289
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",PPTV HD 🇹🇭
+#EXTGRP: Olympic Channel
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/036_pptv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEyOjUzOjUzIFBNJmhhc2hfdmFsdWU9L3pqQWhpZURyeFJwWndUYlQ4MjJZQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwNDUz
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",PPTV FHD 🇹🇭
+#EXTGRP: Olympic Channel
+http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",CH7 HD 🇹🇭
+#EXTGRP: Olympic Channel 
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/035_7HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEyOjUzOjUzIFBNJmhhc2hfdmFsdWU9L3pqQWhpZURyeFJwWndUYlQ4MjJZQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwNDUz
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",CH7 🇹🇭
+#EXTGRP: Olympic Channel 
+http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",MCOT HD 🇹🇭
+#EXTGRP: Olympic Channel 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0
+http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg", MCOT 🇹🇭
+#EXTGRP: Olympic Channel  
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/030_mcothd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEyOjUzOjUzIFBNJmhhc2hfdmFsdWU9L3pqQWhpZURyeFJwWndUYlQ4MjJZQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwNDUz
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",T-Sports7 🇹🇭
+#EXTGRP: Olympic Channel 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",true-premier-HD3 🇹🇭
+#EXTGRP: Olympic Channel 
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/603_eng3./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI0IDEwOjAzOjI3IFBNJmhhc2hfdmFsdWU9d2Q3bHVqdktvMUlKNTlGTHhwa2xhQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzM3OTgw
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",true-premier-HD5 🇹🇭
+#EXTGRP: Olympic Channel 
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/604_eng5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI0IDEwOjAzOjI3IFBNJmhhc2hfdmFsdWU9d2Q3bHVqdktvMUlKNTlGTHhwa2xhQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzM3OTgw
 
 
 
