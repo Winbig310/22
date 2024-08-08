@@ -67,14 +67,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 =====================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mzDDZdc/dazn1.png" group-title="MOTO GP", DAZN 1 Espana
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd6U10V4Wu2fGGeCOaCnTsKoKSC3CGAnW0ca-NiEiYL2wxAR4FeMWZsf4&s=10" group-title="MOTO GP", Moto Gp 3 (OTT NAVIGATOR)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-037/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mzDDZdc/dazn1.png" group-title="MOTO GP", DAZN 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd6U10V4Wu2fGGeCOaCnTsKoKSC3CGAnW0ca-NiEiYL2wxAR4FeMWZsf4&s=10" group-title="MOTO GP", Moto Gp 2 (OTT NAVIGATOR)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
@@ -83,32 +83,176 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/o
 
 
 =====================
-#EXTINF:-1 group-title="VIP Olympic Games Paris 2024" tvg-id="" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif",LIVE Olympics
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJUNWChs30VVMz5TXzAi278nqYmc-0ejiBUJ6WKMEvfixBO3OgjYKxyJTN&s=10" group-title="ASTRO (Olympic Paris 2024)",ASTRO (Olympics) 1 
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1314462
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJUNWChs30VVMz5TXzAi278nqYmc-0ejiBUJ6WKMEvfixBO3OgjYKxyJTN&s=10" group-title="ASTRO (Olympic Paris 2024)",ASTRO (Olympics) 2
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1314461
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJUNWChs30VVMz5TXzAi278nqYmc-0ejiBUJ6WKMEvfixBO3OgjYKxyJTN&s=10" group-title="ASTRO (Olympic Paris 2024)",ASTRO (Olympics) 3
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1314460
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJUNWChs30VVMz5TXzAi278nqYmc-0ejiBUJ6WKMEvfixBO3OgjYKxyJTN&s=10" group-title="ASTRO (Olympic Paris 2024)",ASTRO (Olympics) 4
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1314459
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJUNWChs30VVMz5TXzAi278nqYmc-0ejiBUJ6WKMEvfixBO3OgjYKxyJTN&s=10" group-title="ASTRO (Olympic Paris 2024)",ASTRO (Olympics) 5
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1314458
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJUNWChs30VVMz5TXzAi278nqYmc-0ejiBUJ6WKMEvfixBO3OgjYKxyJTN&s=10" group-title="ASTRO (Olympic Paris 2024)",ASTRO (Olympics) 6
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1314457
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJUNWChs30VVMz5TXzAi278nqYmc-0ejiBUJ6WKMEvfixBO3OgjYKxyJTN&s=10" group-title="ASTRO (Olympic Paris 2024)",ASTRO (Olympics) 7
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1314456
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJUNWChs30VVMz5TXzAi278nqYmc-0ejiBUJ6WKMEvfixBO3OgjYKxyJTN&s=10" group-title="ASTRO (Olympic Paris 2024)",ASTRO (Olympics) 8
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1314455
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJUNWChs30VVMz5TXzAi278nqYmc-0ejiBUJ6WKMEvfixBO3OgjYKxyJTN&s=10" group-title="ASTRO (Olympic Paris 2024)",ASTRO (Olympics) 9
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1314454
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJUNWChs30VVMz5TXzAi278nqYmc-0ejiBUJ6WKMEvfixBO3OgjYKxyJTN&s=10" group-title="ASTRO (Olympic Paris 2024)",ASTRO (Olympics) 10
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1314453
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJUNWChs30VVMz5TXzAi278nqYmc-0ejiBUJ6WKMEvfixBO3OgjYKxyJTN&s=10" group-title="ASTRO (Olympic Paris 2024)",ASTRO (Olympics) 11
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1314452
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJUNWChs30VVMz5TXzAi278nqYmc-0ejiBUJ6WKMEvfixBO3OgjYKxyJTN&s=10" group-title="ASTRO (Olympic Paris 2024)",ASTRO (Olympics) 12
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1314451
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJUNWChs30VVMz5TXzAi278nqYmc-0ejiBUJ6WKMEvfixBO3OgjYKxyJTN&s=10" group-title="ASTRO (Olympic Paris 2024)",ASTRO (Olympics) 13
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1314450
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJUNWChs30VVMz5TXzAi278nqYmc-0ejiBUJ6WKMEvfixBO3OgjYKxyJTN&s=10" group-title="ASTRO (Olympic Paris 2024)",ASTRO (Olympics) 14
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1314449
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJUNWChs30VVMz5TXzAi278nqYmc-0ejiBUJ6WKMEvfixBO3OgjYKxyJTN&s=10" group-title="ASTRO (Olympic Paris 2024)",ASTRO (Olympics) 15
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1314448
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJUNWChs30VVMz5TXzAi278nqYmc-0ejiBUJ6WKMEvfixBO3OgjYKxyJTN&s=10" group-title="ASTRO (Olympic Paris 2024)",ASTRO (Olympics) 16
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1314447
 
-#EXTINF:-1 group-title="VIP Olympic Games Paris 2024" tvg-id="" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif",LIVE Olympics
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00c74743daaa4519b2d3d6b6e7a9a89c:87f7e82f78206a846a85bb214e619ed1
-https://d2q3zea8ff7bj4.cloudfront.net/out/v1/a054e78fe6c7439faec28e9f71b16672/manifest.mpd
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="MU (Olympics) Eurosport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPd_a9JLuGJLRC-4ZYc6ZrXXe9Fp2Oohm5Wo0N2FAjacex4JpvR43o_nDE5NX_yBksTLs&usqp=CAU" group-title="VIP Olympic Games Paris 2024",MU (Olympics) Eurosport 1
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvSlD3lYhvnE7LSpemvR60PHP04cOG_q0Obe6b2pecB_03HIwX7shDWxo&s=10" group-title="SOCCER CHAMPIONS TOUR",Soccer Champions Tour 1 SD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1234767
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvSlD3lYhvnE7LSpemvR60PHP04cOG_q0Obe6b2pecB_03HIwX7shDWxo&s=10" group-title="SOCCER CHAMPIONS TOUR",Soccer Champions Tour 1 HD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1234766
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvSlD3lYhvnE7LSpemvR60PHP04cOG_q0Obe6b2pecB_03HIwX7shDWxo&s=10" group-title="SOCCER CHAMPIONS TOUR",Soccer Champions Tour 1 FHD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1234765
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvSlD3lYhvnE7LSpemvR60PHP04cOG_q0Obe6b2pecB_03HIwX7shDWxo&s=10" group-title="SOCCER CHAMPIONS TOUR",Soccer Champions Tour 1 HEVC
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1234764
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvSlD3lYhvnE7LSpemvR60PHP04cOG_q0Obe6b2pecB_03HIwX7shDWxo&s=10" group-title="SOCCER CHAMPIONS TOUR",Soccer Champions Tour 2 SD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1234771
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvSlD3lYhvnE7LSpemvR60PHP04cOG_q0Obe6b2pecB_03HIwX7shDWxo&s=10" group-title="SOCCER CHAMPIONS TOUR",Soccer Champions Tour 2 HD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1234770
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvSlD3lYhvnE7LSpemvR60PHP04cOG_q0Obe6b2pecB_03HIwX7shDWxo&s=10" group-title="SOCCER CHAMPIONS TOUR",Soccer Champions Tour 2 FHD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1234769
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvSlD3lYhvnE7LSpemvR60PHP04cOG_q0Obe6b2pecB_03HIwX7shDWxo&s=10" group-title="SOCCER CHAMPIONS TOUR",Soccer Champions Tour 2 HEVC
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1234768
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGcbKHTmb2Z2AcJAcMWfH1SVxdd4fKPSgYuw&s" group-title="MOTO GP",Moto Gp SD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/501067
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGcbKHTmb2Z2AcJAcMWfH1SVxdd4fKPSgYuw&s" group-title="MOTO GP",Moto Gp HD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/501068
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGcbKHTmb2Z2AcJAcMWfH1SVxdd4fKPSgYuw&s" group-title="MOTO GP",Moto Gp FHD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/501069
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports 1 SD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/121403
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports 1 HD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/65653
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports 1 FHD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/52862
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports 1 HEVC
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/130543
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports 2 SD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/121404
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports 2 HD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/65652
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports 2 FHD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/52861
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports 2 HEVC
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/130544
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports 3 SD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/121405
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports 3 HD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/65651
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports 3 FHD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/52860
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports 3 HEVC
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/130545
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports Max 4 SD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/936424
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports Max 4 HD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/65650
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports Max 4 FHD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/936417
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports Max 4 HEVC
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/936431
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports Max 5 SD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/936428
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports Max 5 HD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/65649
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports Max 5 FHD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/936421
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports Max 5 HEVC
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/936435
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports Max 6 SD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/936427
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports Max 6 HD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/65648
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports Max 6 FHD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/936420
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports Max 6 HEVC
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/936434
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports Max 7 SD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/936426
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports Max 7 HD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/65647
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports Max 7 FHD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/936419
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports Max 7 HEVC
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/936433
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports Max 8 SD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/936425
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports Max 8 HD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/65646
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports Max 8 FHD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/936418
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports Max 8 HEVC
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/936432
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports Max 9 SD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/936429
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports Max 9 HD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/402311
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports Max 9 FHD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/936422
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports  Max 9 HEVC
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/936436
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports Max 10 SD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/936430
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports Max 10 HD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/402312
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports Max 10 FHD
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/936423
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEINSPORTS : FR",Bein Sports Max 10 HEVC
+http://select-iptv.net:80/Mariokroby/s36cm3h3pf/936437
+
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThQiN-Vvh3khJkjiq8sbEMKWl0QZsKzXc-xg&usqp=CAU" group-title="EUROSPORTS",EUROSPORTS 1
 http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282297
-#EXTINF:-1 tvg-ID="" tvg-name="MU (Olympics) Eurosport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPd_a9JLuGJLRC-4ZYc6ZrXXe9Fp2Oohm5Wo0N2FAjacex4JpvR43o_nDE5NX_yBksTLs&usqp=CAU" group-title="VIP Olympic Games Paris 2024",MU (Olympics) Eurosport 2
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThQiN-Vvh3khJkjiq8sbEMKWl0QZsKzXc-xg&usqp=CAU" group-title="EUROSPORTS",EUROSPORTS 2
 http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282296
-#EXTINF:-1 tvg-ID="" tvg-name="MU (Olympics) Eurosport 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPd_a9JLuGJLRC-4ZYc6ZrXXe9Fp2Oohm5Wo0N2FAjacex4JpvR43o_nDE5NX_yBksTLs&usqp=CAU" group-title="VIP Olympic Games Paris 2024",MU (Olympics) Eurosport 3
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThQiN-Vvh3khJkjiq8sbEMKWl0QZsKzXc-xg&usqp=CAU" group-title="EUROSPORTS",EUROSPORTS 3
 http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282295
-#EXTINF:-1 tvg-ID="" tvg-name="MU (Olympics) Eurosport 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPd_a9JLuGJLRC-4ZYc6ZrXXe9Fp2Oohm5Wo0N2FAjacex4JpvR43o_nDE5NX_yBksTLs&usqp=CAU" group-title="VIP Olympic Games Paris 2024",MU (Olympics) Eurosport 4
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThQiN-Vvh3khJkjiq8sbEMKWl0QZsKzXc-xg&usqp=CAU" group-title="EUROSPORTS",EUROSPORTS 4
 http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282294
-#EXTINF:-1 tvg-ID="" tvg-name="MU (Olympics) Eurosport 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPd_a9JLuGJLRC-4ZYc6ZrXXe9Fp2Oohm5Wo0N2FAjacex4JpvR43o_nDE5NX_yBksTLs&usqp=CAU" group-title="VIP Olympic Games Paris 2024",MU (Olympics) Eurosport 5
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThQiN-Vvh3khJkjiq8sbEMKWl0QZsKzXc-xg&usqp=CAU" group-title="EUROSPORTS",EUROSPORTS 5
 http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282293
-#EXTINF:-1 tvg-ID="" tvg-name="MU (Olympics) Eurosport 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPd_a9JLuGJLRC-4ZYc6ZrXXe9Fp2Oohm5Wo0N2FAjacex4JpvR43o_nDE5NX_yBksTLs&usqp=CAU" group-title="VIP Olympic Games Paris 2024",MU (Olympics) Eurosport 6
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThQiN-Vvh3khJkjiq8sbEMKWl0QZsKzXc-xg&usqp=CAU" group-title="EUROSPORTS",EUROSPORTS 6
 http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282292
-#EXTINF:-1 tvg-ID="" tvg-name="MU (Olympics) Eurosport 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPd_a9JLuGJLRC-4ZYc6ZrXXe9Fp2Oohm5Wo0N2FAjacex4JpvR43o_nDE5NX_yBksTLs&usqp=CAU" group-title="VIP Olympic Games Paris 2024",MU (Olympics) Eurosport 7
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThQiN-Vvh3khJkjiq8sbEMKWl0QZsKzXc-xg&usqp=CAU" group-title="EUROSPORTS",EUROSPORTS 7
 http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282291
-#EXTINF:-1 tvg-ID="" tvg-name="MU (Olympics) Eurosport 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPd_a9JLuGJLRC-4ZYc6ZrXXe9Fp2Oohm5Wo0N2FAjacex4JpvR43o_nDE5NX_yBksTLs&usqp=CAU" group-title="VIP Olympic Games Paris 2024",MU (Olympics) Eurosport 8
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThQiN-Vvh3khJkjiq8sbEMKWl0QZsKzXc-xg&usqp=CAU" group-title="EUROSPORTS",EUROSPORTS 8
 http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282290
-#EXTINF:-1 tvg-ID="" tvg-name="MU (Olympics) Eurosport 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPd_a9JLuGJLRC-4ZYc6ZrXXe9Fp2Oohm5Wo0N2FAjacex4JpvR43o_nDE5NX_yBksTLs&usqp=CAU" group-title="VIP Olympic Games Paris 2024",MU (Olympics) Eurosport 9
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThQiN-Vvh3khJkjiq8sbEMKWl0QZsKzXc-xg&usqp=CAU" group-title="EUROSPORTS",EUROSPORTS 9
 http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282289
+
+
+
+
+
