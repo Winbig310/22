@@ -175,6 +175,20 @@ https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
 =====================
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="BRI LIGA 1", INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
+#EXTVLCOPT:cache=100
+#EXTVLCOPT:network-caching=1
+https://thedream.biz.id/live/endosiar.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="BRI LIGA 1",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
+#EXTVLCOPT:cache=100
+#EXTVLCOPT:network-caching=1
+https://thedream.biz.id/live/esceteve.m3u8
+=====================
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJUNWChs30VVMz5TXzAi278nqYmc-0ejiBUJ6WKMEvfixBO3OgjYKxyJTN&s=10" group-title="ASTRO SPORTS",ASTRO 1 
 http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1314462
