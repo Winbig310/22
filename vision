@@ -170,21 +170,21 @@ https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
 =====================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png" group-title="SPORTS LOKAL", INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 7.1.1; 1fznmb8) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
 #EXTVLCOPT:cache=1
 #EXTVLCOPT:network-caching=1
 https://thedream.biz.id/live/endosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png" group-title="SPORTS LOKAL",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 7.1.1; 1fznmb8) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
 #EXTVLCOPT:cache=1
 #EXTVLCOPT:network-caching=1
 https://thedream.biz.id/live/esceteve.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg" group-title="SPORTS LOKAL",MOJI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 7.1.1; 1fznmb8) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
 #EXTVLCOPT:cache=1
 #EXTVLCOPT:network-caching=1
