@@ -1,0 +1,136 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="beinSports1.fr" group-title="France ➾ Football",FR: beIN Sports 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/144
+#EXTINF:0 tvg-id="beinSports2.fr" group-title="France ➾ Football",FR: beIN Sports 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/145
+#EXTINF:0 tvg-id="beinSports3.fr" group-title="France ➾ Football",FR: beIN Sports 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/146
+#EXTINF:0 tvg-id="ext" group-title="France ➾ Football",FR: CANAL+ Premier League
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/286794
+#EXTINF:0 tvg-id="ext" group-title="France ➾ Football",FR: DAZN 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/304975
+=========
+=========
+=========
+#EXTINF:0 tvg-id="ext" group-title="UK ➾ Football",UK: Premier Sports 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1097
+#EXTINF:0 tvg-id="PremierSports2.uk" group-title="UK ➾ Football",UK: Premier Sports 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/4723
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="UK ➾ Football",UK: Sky Sports Football
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/266
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="UK ➾ Football",UK: Sky Sports Premier League
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/263
+=========
+=========
+=========
+#EXTINF:0 tvg-id="ext" group-title="Poland ➾ Football",PL: ELEVEN SPORTS 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/347
+#EXTINF:0 tvg-id="ext" group-title="Poland ➾ Football",PL: ELEVEN SPORTS 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3643
+#EXTINF:0 tvg-id="ext" group-title="Poland ➾ Football",PL: ELEVEN SPORTS 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3644
+#EXTINF:0 tvg-id="ext" group-title="Poland ➾ Football",PL: ELEVEN SPORTS 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3645
+=========
+=========
+=========
+#EXTINF:0 tvg-id="ext" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2431
+#EXTINF:0 tvg-id="SkyBundesliga.de" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298592
+#EXTINF:0 tvg-id="SkyBundesliga2.de" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/4493
+#EXTINF:0 tvg-id="SkyBundesliga3.de" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2135
+#EXTINF:0 tvg-id="SkyBundesliga4.de" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3513
+#EXTINF:0 tvg-id="SkyBundesliga5.de" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 5
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2136
+#EXTINF:0 tvg-id="SkyBundesliga6.de" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 6
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/12638
+#EXTINF:0 tvg-id="ext" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 7
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2433
+#EXTINF:0 tvg-id="SkyBundesliga8.de" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2434
+#EXTINF:0 tvg-id="SkyBundesliga9.de" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 9
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/10051
+#EXTINF:0 tvg-id="SkyBundesliga10.de" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 10
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2432
+#EXTINF:0 tvg-id="ext" group-title="Germany ➾ Football",DE: Sky Sport Premiere League
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298381
+==========
+=========
+=========
+#EXTINF:0 tvg-id="DAZN1.es" group-title="Spain ➾ Football",ES: DAZN 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/64711
+#EXTINF:0 tvg-id="DAZN2.es" group-title="Spain ➾ Football",ES: DAZN 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/64712
+#EXTINF:0 tvg-id="DAZN3.es" group-title="Spain ➾ Football",ES: DAZN 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/269912
+#EXTINF:0 tvg-id="DAZN4.es" group-title="Spain ➾ Football",ES: DAZN 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/269911
+#EXTINF:0 tvg-id="DAZNLaLiga.es" group-title="Spain ➾ Football",ES: DAZN LaLiga
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/297787
+#EXTINF:0 tvg-id="DAZNLaLiga2.es" group-title="Spain ➾ Football",ES: DAZN LaLiga 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298745
+#EXTINF:0 tvg-id="LaLigaTVBar.es" group-title="Spain ➾ Football",ES: LaLiga TV Bar
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/197711
+#EXTINF:0 tvg-id="LaLigaTVHypermotion.es" group-title="Spain ➾ Football",ES: LaLiga TV Hypermotion
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/300830
+#EXTINF:0 tvg-id="LaLigaTVHypermotion2.es" group-title="Spain ➾ Football",ES: LaLiga TV Hypermotion 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/300831
+#EXTINF:0 tvg-id="LaLigaTVHypermotion3.es" group-title="Spain ➾ Football",ES: LaLiga TV Hypermotion 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/300832
+#EXTINF:0 tvg-id="M.LaLiga.es" group-title="Spain ➾ Football",ES: M+ LaLiga
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/302296
+#EXTINF:0 tvg-id="M.LaLiga.es" group-title="Spain ➾ Football",ES: Movistar LaLiga
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1141
+#EXTINF:0 tvg-id="M.LaLiga2.es" group-title="Spain ➾ Football",ES: Movistar LaLiga 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/5311
+#EXTINF:0 tvg-id="M.LaLiga3.es" group-title="Spain ➾ Football",ES: Movistar LaLiga 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281772
+#EXTINF:0 tvg-id="M.LaLiga4.es" group-title="Spain ➾ Football",ES: Movistar LaLiga 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/269466
+#EXTINF:0 tvg-id="M.LaLiga7.es" group-title="Spain ➾ Football",ES: Movistar LaLiga 7
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/194527
+#EXTINF:0 tvg-id="M.LigaCampeones.es" group-title="Spain ➾ Football",ES: Movistar Liga De Campeones
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2800
+#EXTINF:0 tvg-id="MovistarLDC2.es" group-title="Spain ➾ Football",ES: Movistar Liga De Campeones 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/81096
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Football",ES: Movistar Liga De Campeones 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298805
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Football",ES: Movistar Liga De Campeones 5
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298807
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Football",ES: Movistar Liga De Campeones 8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/301581
+============
+=========
+=========
+#EXTINF:0 tvg-id="elevensports1.pt" group-title="Portugal ➾ Football",PT: ELEVEN SPORTS 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1499
+#EXTINF:0 tvg-id="elevensports2.pt" group-title="Portugal ➾ Football",PT: ELEVEN SPORTS 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1503
+#EXTINF:0 tvg-id="elevensports2.pt" group-title="Portugal ➾ Football",PT: ELEVEN SPORTS 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1506
+#EXTINF:0 tvg-id="elevensports4.pt" group-title="Portugal ➾ Football",PT: ELEVEN SPORTS 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1509
+#EXTINF:0 tvg-id="elevensports5.pt" group-title="Portugal ➾ Football",PT: ELEVEN SPORTS 5
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1512
+#EXTINF:0 tvg-id="elevensports6.pt" group-title="Portugal ➾ Football",PT: ELEVEN SPORTS 6
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1515
+=============
+=========
+=========
+#EXTINF:0 tvg-id="ext" group-title="South Africa ➾ Football",ZA: SuperSport Football
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/38575
+#EXTINF:0 tvg-id="ext" group-title="South Africa ➾ Football",ZA: SuperSport Maximo 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/38572
+#EXTINF:0 tvg-id="ext" group-title="South Africa ➾ Football",ZA: SuperSport Premier League
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/11642
+#EXTINF:0 tvg-id="ext" group-title="South Africa ➾ Football",ZA: SuperSport PSL
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/11643
+
+
+
+
