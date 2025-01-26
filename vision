@@ -424,58 +424,81 @@ https://wp4-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000110_0
 
 -------DAZN-------
 
-#EXTINF:-1 tvg-id="DAZN1" tvg-name="DAZN 1" group-title="DAZN Sports" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=xraq62d8vawl19o8abgigmjib_image-header_pRow_1720521601000&quality=70",DAZN 1
+#EXTINF:-1 group-title="𝐃𝐀𝐙𝐍       𝓖𝓮𝓻𝓪𝓲 𝓜𝓮𝓳𝓪 ☕" tvg-id="dazn1_spain" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=xraq62d8vawl19o8abgigmjib_image-header_pRow_1720521601000&quality=70",DAZN 1 Spain
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://cors-proxy.cooks.fyi/https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+https://webhdrunns.mizhls.ru/lb/premium445/index.m3u8
+
+#EXTINF:-1 group-title="𝐃𝐀𝐙𝐍       𝓖𝓮𝓻𝓪𝓲 𝓜𝓮𝓳𝓪 ☕" tvg-id="dazn2_spain" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlAjv3GLRmasxKH17ns-VXiTfqhL5nSTEW2OiOe7yIdWvuxBBXqaIxxI3m&s=10",DAZN 2 Spain
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium445/index.m3u8
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://cors-proxy.cooks.fyi/https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+https://webhdrunns.mizhls.ru/lb/premium446/index.m3u8
 
-#EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN 2" group-title="DAZN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlAjv3GLRmasxKH17ns-VXiTfqhL5nSTEW2OiOe7yIdWvuxBBXqaIxxI3m&s=10",DAZN 2
+#EXTINF:-1 group-title="𝐃𝐀𝐙𝐍       𝓖𝓮𝓻𝓪𝓲 𝓜𝓮𝓳𝓪 ☕" tvg-id="dazn3_spain" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6r4rHHYhqEB5lUA3DlxmziWcOAbyI7whqiFdwJzs687qeEE_8_z8wZYe9&s=10",DAZN 3 Spain
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium446/index.m3u8
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium447/index.m3u8
+https://cors-proxy.cooks.fyi/https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
 
-#EXTINF:-1 tvg-id="DAZN3" tvg-name="DAZN 3" group-title="DAZN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6r4rHHYhqEB5lUA3DlxmziWcOAbyI7whqiFdwJzs687qeEE_8_z8wZYe9&s=10",DAZN 3
+#EXTINF:-1 group-title="𝐃𝐀𝐙𝐍       𝓖𝓮𝓻𝓪𝓲 𝓜𝓮𝓳𝓪 ☕" tvg-id="dazn4_spain" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkGymxm48TmzhGXvIu7V2j1ozHRm-OCAtHmg&s",DAZN 4 Spain
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium447/index.m3u8
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium448/index.m3u8
+https://cors-proxy.cooks.fyi/https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
 
-#EXTINF:-1 tvg-id="DAZN4" tvg-name="DAZN 4" group-title="DAZN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkGymxm48TmzhGXvIu7V2j1ozHRm-OCAtHmg&s",DAZN 4
+#EXTINF:-1 group-title="𝐃𝐀𝐙𝐍       𝓖𝓮𝓻𝓪𝓲 𝓜𝓮𝓳𝓪 ☕" tvg-id="dazn_laliga" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1b88b188-d9f5-45a1-ba10-f58fbf1d7383&quality=70",DAZN LaLiga
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium448/index.m3u8
-
-
-
--------Dazn Laliga-------
-
-#EXTINF:-1 tvg-id="DAZN LaLiga1" tvg-name="DAZN LaLiga 1" group-title="DAZN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOmDOWsQ1uycB0jhFkfEYGrUmV8xikZgMHzF0JaWKFp5fPaibXBunqec_N&s=10",DAZN LA LIGA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://cors-proxy.cooks.fyi/https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 https://xyzdddd.mizhls.ru/lb/premium538/index.m3u8
 
-#EXTINF:-1 tvg-id="DAZN LaLiga2" tvg-name="DAZN LaLiga 2" tvg-logo="https://bit.ly/3SpOwV9" group-title="DAZN Sports" , DAZN LaLiga
-https://tv1.strm2234.xyz/laliga/index.m3u8
+#EXTINF:-1 group-title="𝐃𝐀𝐙𝐍       𝓖𝓮𝓻𝓪𝓲 𝓜𝓮𝓳𝓪 ☕" tvg-id="laliga_hypermotion" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1tf4qe1um8p017gmjh0fniqns_image-header_pEs_1704473541000&quality=70",LaLiga TV Hypermotion
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
+https://cors-proxy.cooks.fyi/https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 group-title="𝐃𝐀𝐙𝐍       𝓖𝓮𝓻𝓪𝓲 𝓜𝓮𝓳𝓪 ☕" tvg-id="laliga_hypermotion2" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1tf4qe1um8p017gmjh0fniqns_image-header_pEs_1704473541000&quality=70",LaLiga TV Hypermotion 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
+https://cors-proxy.cooks.fyi/https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+
+#EXTINF:-1 group-title="𝐃𝐀𝐙𝐍       𝓖𝓮𝓻𝓪𝓲 𝓜𝓮𝓳𝓪 ☕" tvg-id="laliga_hypermotion3" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1tf4qe1um8p017gmjh0fniqns_image-header_pEs_1704473541000&quality=70",LaLiga TV Hypermotion 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+https://cors-proxy.cooks.fyi/https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+
 
 
 
 -------Prima Sport-------
 
-#EXTINF:-1 tvg-name="Prima Sport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5U3pSXutnufrSznp2YlPl050geSvwJ9GIw&usqp=CAU" group-title="PRIMA Sports",Prima Sport 1
+#EXTINF:-1 tvg-name="Prima Sport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5U3pSXutnufrSznp2YlPl050geSvwJ9GIw&usqp=CAU" group-title="PRIMA SPORTS",Prima Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://xyzdddd.mizhls.ru/lb/premium583/index.m3u8
 
-#EXTINF:-1 tvg-name="Prima Sport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5U3pSXutnufrSznp2YlPl050geSvwJ9GIw&usqp=CAU" group-title="PRIMA Sports",Prima Sport 2
+#EXTINF:-1 tvg-name="Prima Sport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5U3pSXutnufrSznp2YlPl050geSvwJ9GIw&usqp=CAU" group-title="PRIMA SPORTS",Prima Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://xyzdddd.mizhls.ru/lb/premium584/index.m3u8
 
-#EXTINF:-1 tvg-name="Prima Sport3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5U3pSXutnufrSznp2YlPl050geSvwJ9GIw&usqp=CAU" group-title="PRIMA Sports",Prima Sport 3
+#EXTINF:-1 tvg-name="Prima Sport3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5U3pSXutnufrSznp2YlPl050geSvwJ9GIw&usqp=CAU" group-title="PRIMA SPORTS",Prima Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://xyzdddd.mizhls.ru/lb/premium586/index.m3u8
 
-#EXTINF:-1 tvg-name="Prima Sport4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5U3pSXutnufrSznp2YlPl050geSvwJ9GIw&usqp=CAU" group-title="PRIMA Sports",Prima Sport 4
+#EXTINF:-1 tvg-name="Prima Sport4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5U3pSXutnufrSznp2YlPl050geSvwJ9GIw&usqp=CAU" group-title="PRIMA SPORTS",Prima Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://xyzdddd.mizhls.ru/lb/premium585/index.m3u8
@@ -484,56 +507,102 @@ https://xyzdddd.mizhls.ru/lb/premium585/index.m3u8
 
 -------Astro Supersport-------
 
-#EXTINF:-1 tvg-id="AstroSupersport1" tvg-name="Astro SuperSport 1" tvg-logo="https://i.ibb.co.com/SBKjcKb/20240903-015512.jpg" group-title="ASTRO Sports",Astro SuperSport 1
+#EXTINF:-1 tvg-id="AstroSupersport1" tvg-name="Astro SuperSport 1" tvg-logo="https://i.ibb.co.com/SBKjcKb/20240903-015512.jpg" group-title="ASTRO SPORTS",Astro SuperSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://xyzdddd.mizhls.ru/lb/premium123/index.m3u8
 
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.ibb.co.com/SBKjcKb/20240903-015512.jpg" group-title="ASTRO Sports",Astro SuperSport 2
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.ibb.co.com/SBKjcKb/20240903-015512.jpg" group-title="ASTRO SPORTS",Astro SuperSport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://xyzdddd.mizhls.ru/lb/premium124/index.m3u8
 
-#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.ibb.co.com/SBKjcKb/20240903-015512.jpg" group-title="ASTRO Sports",Astro SuperSport 3
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.ibb.co.com/SBKjcKb/20240903-015512.jpg" group-title="ASTRO SPORTS",Astro SuperSport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://xyzdddd.mizhls.ru/lb/premium125/index.m3u8
 
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.ibb.co.com/SBKjcKb/20240903-015512.jpg" group-title="ASTRO Sports",Astro SuperSport 4
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.ibb.co.com/SBKjcKb/20240903-015512.jpg" group-title="ASTRO SPORTS",Astro SuperSport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://xyzdddd.mizhls.ru/lb/premium126/index.m3u8
 
 
 
+
+-------SKY SPORTS-------
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bkZzA_3kq1UCmss19TS2SyFMehRhawgk5gW3m3nlF0g9FUfaUnLoEv4b&s=10" group-title="SKY SPORTS", SKY 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium588/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bkZzA_3kq1UCmss19TS2SyFMehRhawgk5gW3m3nlF0g9FUfaUnLoEv4b&s=10" group-title="SKY SPORTS", SKY 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium589/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bkZzA_3kq1UCmss19TS2SyFMehRhawgk5gW3m3nlF0g9FUfaUnLoEv4b&s=10" group-title="SKY SPORTS", SKY 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium590/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bkZzA_3kq1UCmss19TS2SyFMehRhawgk5gW3m3nlF0g9FUfaUnLoEv4b&s=10" group-title="SKY SPORTS", SKY 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium591/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bkZzA_3kq1UCmss19TS2SyFMehRhawgk5gW3m3nlF0g9FUfaUnLoEv4b&s=10" group-title="SKY SPORTS", SKY 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium592/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bkZzA_3kq1UCmss19TS2SyFMehRhawgk5gW3m3nlF0g9FUfaUnLoEv4b&s=10" group-title="SKY SPORTS", SKY 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium593/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bkZzA_3kq1UCmss19TS2SyFMehRhawgk5gW3m3nlF0g9FUfaUnLoEv4b&s=10" group-title="SKY SPORTS", SKY 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium595/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bkZzA_3kq1UCmss19TS2SyFMehRhawgk5gW3m3nlF0g9FUfaUnLoEv4b&s=10" group-title="SKY SPORTS", SKY 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium596/index.m3u8
+
+
+
+
 --------BeinSport--------
 
-#EXTINF:-1 tvg-id="BeinSport1" tvg-name="BeinSport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-xIHwSY-2rVKcP0KWRNY2G8_yDC3618QTg&usqp=CAU" group-title="BEIN Sports",Bein Sport 1 AR
+#EXTINF:-1 tvg-id="BeinSport1" tvg-name="BeinSport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-xIHwSY-2rVKcP0KWRNY2G8_yDC3618QTg&usqp=CAU" group-title=BEIN SPORTS",Bein Sport 1 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://xyzdddd.mizhls.ru/lb/premium91/index.m3u8
 
-#EXTINF:-1 tvg-id="BeinSport2" tvg-name="BeinSport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-xIHwSY-2rVKcP0KWRNY2G8_yDC3618QTg&usqp=CAU" group-title="BEIN Sports",Bein Sport 2 AR
+#EXTINF:-1 tvg-id="BeinSport2" tvg-name="BeinSport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-xIHwSY-2rVKcP0KWRNY2G8_yDC3618QTg&usqp=CAU" group-title=BEIN SPORTS",Bein Sport 2 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://xyzdddd.mizhls.ru/lb/premium92/index.m3u8
 
-#EXTINF:-1 tvg-id="BeinSport3" tvg-name="BeinSport3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-xIHwSY-2rVKcP0KWRNY2G8_yDC3618QTg&usqp=CAU" group-title="BEIN Sports",Bein Sport 3 AR
+#EXTINF:-1 tvg-id="BeinSport3" tvg-name="BeinSport3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-xIHwSY-2rVKcP0KWRNY2G8_yDC3618QTg&usqp=CAU" group-title=BEIN SPORTS",Bein Sport 3 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://xyzdddd.mizhls.ru/lb/premium93/index.m3u8
 
-#EXTINF:-1 tvg-id="BeinSport4" tvg-name="BeinSport4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-xIHwSY-2rVKcP0KWRNY2G8_yDC3618QTg&usqp=CAU" group-title="BEIN Sports",Bein Sport 4 AR
+#EXTINF:-1 tvg-id="BeinSport4" tvg-name="BeinSport4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-xIHwSY-2rVKcP0KWRNY2G8_yDC3618QTg&usqp=CAU" group-title=BEIN SPORTS",Bein Sport 4 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://xyzdddd.mizhls.ru/lb/premium94/index.m3u8
 
-#EXTINF:-1 tvg-id="BeinSport5" tvg-name="BeinSport5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-xIHwSY-2rVKcP0KWRNY2G8_yDC3618QTg&usqp=CAU" group-title="BEIN Sports",Bein Sport 5 AR
+#EXTINF:-1 tvg-id="BeinSport5" tvg-name="BeinSport5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-xIHwSY-2rVKcP0KWRNY2G8_yDC3618QTg&usqp=CAU" group-title=BEIN SPORTS",Bein Sport 5 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://xyzdddd.mizhls.ru/lb/premium95/index.m3u8
 
-#EXTINF:-1 tvg-id="BeinSport6" tvg-name="BeinSport6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-xIHwSY-2rVKcP0KWRNY2G8_yDC3618QTg&usqp=CAU" group-title="BEIN Sports",Bein Sport 6 AR
+#EXTINF:-1 tvg-id="BeinSport6" tvg-name="BeinSport6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-xIHwSY-2rVKcP0KWRNY2G8_yDC3618QTg&usqp=CAU" group-title=BEIN SPORTS",Bein Sport 6 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://xyzdddd.mizhls.ru/lb/premium96/index.m3u
