@@ -444,16 +444,16 @@ https://cors-proxy.cooks.fyi/https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/
 #KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium447/index.m3u8
-https://cors-proxy.cooks.fyi/https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+#https://webhdrunns.mizhls.ru/lb/premium447/index.m3u8
+#https://cors-proxy.cooks.fyi/https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
 
 #EXTINF:-1 group-title="𝐃𝐀𝐙𝐍       𝓖𝓮𝓻𝓪𝓲 𝓜𝓮𝓳𝓪 ☕" tvg-id="dazn4_spain" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkGymxm48TmzhGXvIu7V2j1ozHRm-OCAtHmg&s",DAZN 4 Spain
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium448/index.m3u8
-https://cors-proxy.cooks.fyi/https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
+#https://webhdrunns.mizhls.ru/lb/premium448/index.m3u8
+#https://cors-proxy.cooks.fyi/https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
 
 #EXTINF:-1 group-title="𝐃𝐀𝐙𝐍       𝓖𝓮𝓻𝓪𝓲 𝓜𝓮𝓳𝓪 ☕" tvg-id="dazn_laliga" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1b88b188-d9f5-45a1-ba10-f58fbf1d7383&quality=70",DAZN LaLiga
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -502,30 +502,6 @@ https://xyzdddd.mizhls.ru/lb/premium586/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://xyzdddd.mizhls.ru/lb/premium585/index.m3u8
-
-
-
--------Astro Supersport-------
-
-#EXTINF:-1 tvg-id="AstroSupersport1" tvg-name="Astro SuperSport 1" tvg-logo="https://i.ibb.co.com/SBKjcKb/20240903-015512.jpg" group-title="PREMIER LEAGUE",Astro SuperSport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium123/index.m3u8
-
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.ibb.co.com/SBKjcKb/20240903-015512.jpg" group-title="PREMIER LEAGUE",Astro SuperSport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium124/index.m3u8
-
-#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.ibb.co.com/SBKjcKb/20240903-015512.jpg" group-title="PREMIER LEAGUE",Astro SuperSport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium125/index.m3u8
-
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.ibb.co.com/SBKjcKb/20240903-015512.jpg" group-title="PREMIER LEAGUE",Astro SuperSport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium126/index.m3u8
 
 
 
@@ -606,3 +582,23 @@ https://xyzdddd.mizhls.ru/lb/premium95/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://xyzdddd.mizhls.ru/lb/premium96/index.m3u
+
+
+
+
+------- PREMIER LEAGUE-------
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-CG-nGaVEc_0ix6Lwp_IONaeOEXphwsfeQ&usqp=CAU" group-title="PREMIER LEAGUE",True Premier 1
+http://myserver.myphuket.net:25461/test2/test2/26
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-CG-nGaVEc_0ix6Lwp_IONaeOEXphwsfeQ&usqp=CAU" group-title="PREMIER LEAGUE", True Premier 2
+http://myserver.myphuket.net:25461/test2/test2/27
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-CG-nGaVEc_0ix6Lwp_IONaeOEXphwsfeQ&usqp=CAU" group-title="PREMIER LEAGUE", True Premier 3
+http://myserver.myphuket.net:25461/test2/test2/28
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-CG-nGaVEc_0ix6Lwp_IONaeOEXphwsfeQ&usqp=CAU" group-title="PREMIER LEAGUE", True Sports 1
+http://myserver.myphuket.net:25461/test2/test2/58
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-CG-nGaVEc_0ix6Lwp_IONaeOEXphwsfeQ&usqp=CAU" group-title="PREMIER LEAGUE", True Sports 2
+http://myserver.myphuket.net:25461/test2/test2/59
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-CG-nGaVEc_0ix6Lwp_IONaeOEXphwsfeQ&usqp=CAU" group-title="PREMIER LEAGUE", Astro Premier League
+http://myserver.myphuket.net:25461/test2/test2/54
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-CG-nGaVEc_0ix6Lwp_IONaeOEXphwsfeQ&usqp=CAU" group-title="PREMIER LEAGUE", Supersport Premier League
+http://myserver.myphuket.net:25461/test2/test2/66
