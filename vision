@@ -363,61 +363,61 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
-https://da-d436236420010b88000103030000000000000006.id.cdn.upcbroadband.com/wp/wp7-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/go-dash-fhd-avc/NL_000014_019661.mpd?p=web
+#https://da-d436236420010b88000103030000000000000006.id.cdn.upcbroadband.com/wp/wp7-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/go-dash-fhd-avc/NL_000014_019661.mpd?p=web
 
 #EXTINF:-1 tvg-id="Ziggo2" tvg-name="Ziggo 2" tvg-logo="https://s3-eu-west-1.amazonaws.com/tpd/logos/49a26fb10000640005041fa3/0x0.png", group-title="ZIGGO SPORTS", ZIGGO 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-https://da-d436234620010b88000103020000000000000008.id.cdn.upcbroadband.com/wp/wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/go-dash-fhd-avc/NL_000095_019371.mpd?p=web
+#https://da-d436234620010b88000103020000000000000008.id.cdn.upcbroadband.com/wp/wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/go-dash-fhd-avc/NL_000095_019371.mpd?p=web
 
 #EXTINF:-1 tvg-id="Ziggo3" tvg-name="Ziggo 3" tvg-logo="https://s3-eu-west-1.amazonaws.com/tpd/logos/49a26fb10000640005041fa3/0x0.png", group-title="ZIGGO SPORTS", ZIGGO 3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-https://da-d436234920010b8800010302000000000000000b.id.cdn.upcbroadband.com/wp/wp3-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000096_019382/go-dash-fhd-avc/NL_000096_019382.mpd?p=web
+#https://da-d436234920010b8800010302000000000000000b.id.cdn.upcbroadband.com/wp/wp3-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000096_019382/go-dash-fhd-avc/NL_000096_019382.mpd?p=web
 
 #EXTINF:-1 tvg-id="Ziggo4" tvg-name="Ziggo 4" tvg-logo="https://s3-eu-west-1.amazonaws.com/tpd/logos/49a26fb10000640005041fa3/0x0.png", group-title="ZIGGO SPORTS", ZIGGO 4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-https://da-d436236420010b88000103030000000000000006.id.cdn.upcbroadband.com/wp/wp4-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000097_019370/go-dash-fhd-avc/NL_000097_019370.mpd?p=web
+#https://da-d436236420010b88000103030000000000000006.id.cdn.upcbroadband.com/wp/wp4-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000097_019370/go-dash-fhd-avc/NL_000097_019370.mpd?p=web
 
 #EXTINF:-1 tvg-id="Ziggo5" tvg-name="Ziggo 5" tvg-logo="https://s3-eu-west-1.amazonaws.com/tpd/logos/49a26fb10000640005041fa3/0x0.png", group-title="ZIGGO SPORTS", ZIGGO 5
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-https://da-d436234420010b88000103020000000000000006.id.cdn.upcbroadband.com/wp/wp5-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000098_019255/go-dash-fhd-avc/NL_000098_019255.mpd?p=web
+#https://da-d436234420010b88000103020000000000000006.id.cdn.upcbroadband.com/wp/wp5-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000098_019255/go-dash-fhd-avc/NL_000098_019255.mpd?p=web
 
 #EXTINF:-1 tvg-id="Ziggo6" tvg-name="Ziggo 6" tvg-logo="https://s3-eu-west-1.amazonaws.com/tpd/logos/49a26fb10000640005041fa3/0x0.png", group-title="ZIGGO SPORTS",ZIGGO 6
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-https://da-d436234a20010b8800010302000000000000000c.id.cdn.upcbroadband.com/wp/wp6-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_019256/go-dash-fhd-avc/NL_000099_019256.mpd?p=web
+#https://da-d436234a20010b8800010302000000000000000c.id.cdn.upcbroadband.com/wp/wp6-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_019256/go-dash-fhd-avc/NL_000099_019256.mpd?p=web
 
 #EXTINF:-1 tvg-id="Espn1" tvg-name="Espn 1" tvg-logo="https://centredevils.co.uk/wp-content/uploads/2024/04/wc8dnt1660760493.png", group-title="ZIGGO SPORTS", ESPN Nederland
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
-https://da-d436234520010b88000103020000000000000007.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv
+#https://da-d436234520010b88000103020000000000000007.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv
 
 #EXTINF:-1 tvg-id="Espn2" tvg-name="Espn 2" tvg-logo="https://centredevils.co.uk/wp-content/uploads/2024/04/wc8dnt1660760493.png", group-title="ZIGGO SPORTS",ESPN 2 Nederland
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
-https://wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000108_019561/go-dash-hdready-avc/NL_000108_019561.mpd?p=starballtv
+#https://wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000108_019561/go-dash-hdready-avc/NL_000108_019561.mpd?p=starballtv
 
 #EXTINF:-1 tvg-id="Espn3" tvg-name="Espn 3" tvg-logo="https://centredevils.co.uk/wp-content/uploads/2024/04/wc8dnt1660760493.png", group-title="ZIGGO SPORTS",ESPN 3 Nederland
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
-https://wp3-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000109_019464/go-dash-hdready-avc/NL_000109_019464.mpd?p=starballtv
+#https://wp3-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000109_019464/go-dash-hdready-avc/NL_000109_019464.mpd?p=starballtv
 
 #EXTINF:-1 tvg-id="Espn4" tvg-name="Espn 4" tvg-logo="https://centredevils.co.uk/wp-content/uploads/2024/04/wc8dnt1660760493.png", group-title="ZIGGO SPORTS",ESPN 4 Nederland
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
-https://wp4-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000110_019562/go-dash-hdready-avc/NL_000110_019562.mpd?p=starballtv
+#https://wp4-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000110_019562/go-dash-hdready-avc/NL_000110_019562.mpd?p=starballtv
 
 
 
@@ -481,124 +481,3 @@ https://cors-proxy.cooks.fyi/https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/
 
 
 
--------Prima Sport-------
-
-#EXTINF:-1 tvg-name="Prima Sport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5U3pSXutnufrSznp2YlPl050geSvwJ9GIw&usqp=CAU" group-title="PRIMA SPORTS",Prima Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium583/index.m3u8
-
-#EXTINF:-1 tvg-name="Prima Sport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5U3pSXutnufrSznp2YlPl050geSvwJ9GIw&usqp=CAU" group-title="PRIMA SPORTS",Prima Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium584/index.m3u8
-
-#EXTINF:-1 tvg-name="Prima Sport3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5U3pSXutnufrSznp2YlPl050geSvwJ9GIw&usqp=CAU" group-title="PRIMA SPORTS",Prima Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium586/index.m3u8
-
-#EXTINF:-1 tvg-name="Prima Sport4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5U3pSXutnufrSznp2YlPl050geSvwJ9GIw&usqp=CAU" group-title="PRIMA SPORTS",Prima Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium585/index.m3u8
-
-
-
-
--------SKY SPORTS-------
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bkZzA_3kq1UCmss19TS2SyFMehRhawgk5gW3m3nlF0g9FUfaUnLoEv4b&s=10" group-title="SKY SPORTS", SKY 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium588/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bkZzA_3kq1UCmss19TS2SyFMehRhawgk5gW3m3nlF0g9FUfaUnLoEv4b&s=10" group-title="SKY SPORTS", SKY 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium589/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bkZzA_3kq1UCmss19TS2SyFMehRhawgk5gW3m3nlF0g9FUfaUnLoEv4b&s=10" group-title="SKY SPORTS", SKY 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium590/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bkZzA_3kq1UCmss19TS2SyFMehRhawgk5gW3m3nlF0g9FUfaUnLoEv4b&s=10" group-title="SKY SPORTS", SKY 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium591/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bkZzA_3kq1UCmss19TS2SyFMehRhawgk5gW3m3nlF0g9FUfaUnLoEv4b&s=10" group-title="SKY SPORTS", SKY 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium592/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bkZzA_3kq1UCmss19TS2SyFMehRhawgk5gW3m3nlF0g9FUfaUnLoEv4b&s=10" group-title="SKY SPORTS", SKY 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium593/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bkZzA_3kq1UCmss19TS2SyFMehRhawgk5gW3m3nlF0g9FUfaUnLoEv4b&s=10" group-title="SKY SPORTS", SKY 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium595/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bkZzA_3kq1UCmss19TS2SyFMehRhawgk5gW3m3nlF0g9FUfaUnLoEv4b&s=10" group-title="SKY SPORTS", SKY 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium596/index.m3u8
-
-
-
-
---------BeinSport--------
-
-#EXTINF:-1 tvg-id="BeinSport1" tvg-name="BeinSport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-xIHwSY-2rVKcP0KWRNY2G8_yDC3618QTg&usqp=CAU" group-title="BEIN SPORTS",Bein Sport 1 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium91/index.m3u8
-
-#EXTINF:-1 tvg-id="BeinSport2" tvg-name="BeinSport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-xIHwSY-2rVKcP0KWRNY2G8_yDC3618QTg&usqp=CAU" group-title="BEIN SPORTS",Bein Sport 2 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium92/index.m3u8
-
-#EXTINF:-1 tvg-id="BeinSport3" tvg-name="BeinSport3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-xIHwSY-2rVKcP0KWRNY2G8_yDC3618QTg&usqp=CAU" group-title="BEIN SPORTS",Bein Sport 3 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium93/index.m3u8
-
-#EXTINF:-1 tvg-id="BeinSport4" tvg-name="BeinSport4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-xIHwSY-2rVKcP0KWRNY2G8_yDC3618QTg&usqp=CAU" group-title="BEIN SPORTS",Bein Sport 4 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium94/index.m3u8
-
-#EXTINF:-1 tvg-id="BeinSport5" tvg-name="BeinSport5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-xIHwSY-2rVKcP0KWRNY2G8_yDC3618QTg&usqp=CAU" group-title="BEIN SPORTS",Bein Sport 5 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium95/index.m3u8
-
-#EXTINF:-1 tvg-id="BeinSport6" tvg-name="BeinSport6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-xIHwSY-2rVKcP0KWRNY2G8_yDC3618QTg&usqp=CAU" group-title="BEIN SPORTS",Bein Sport 6 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium96/index.m3u
-
-
-
-
-------- PREMIER LEAGUE-------
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-CG-nGaVEc_0ix6Lwp_IONaeOEXphwsfeQ&usqp=CAU" group-title="PREMIER LEAGUE",True Premier 1
-http://myserver.myphuket.net:25461/test2/test2/26
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-CG-nGaVEc_0ix6Lwp_IONaeOEXphwsfeQ&usqp=CAU" group-title="PREMIER LEAGUE", True Premier 2
-http://myserver.myphuket.net:25461/test2/test2/27
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-CG-nGaVEc_0ix6Lwp_IONaeOEXphwsfeQ&usqp=CAU" group-title="PREMIER LEAGUE", True Premier 3
-http://myserver.myphuket.net:25461/test2/test2/28
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-CG-nGaVEc_0ix6Lwp_IONaeOEXphwsfeQ&usqp=CAU" group-title="PREMIER LEAGUE", True Sports 1
-http://myserver.myphuket.net:25461/test2/test2/58
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-CG-nGaVEc_0ix6Lwp_IONaeOEXphwsfeQ&usqp=CAU" group-title="PREMIER LEAGUE", True Sports 2
-http://myserver.myphuket.net:25461/test2/test2/59
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-CG-nGaVEc_0ix6Lwp_IONaeOEXphwsfeQ&usqp=CAU" group-title="PREMIER LEAGUE", Astro Premier League
-http://myserver.myphuket.net:25461/test2/test2/54
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-CG-nGaVEc_0ix6Lwp_IONaeOEXphwsfeQ&usqp=CAU" group-title="PREMIER LEAGUE", Supersport Premier League
-http://myserver.myphuket.net:25461/test2/test2/66
